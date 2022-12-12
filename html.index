@@ -6,11 +6,8 @@
   <title>JS Bin</title>
 </head>
 <body>
-  <h1>Ubérisation</h1>
-  <https://codimd.s3.shivering-isles.com/demo/uploads/ff033f43-626e-42b4-849d-24cf1eac3146.png>
+  <h1>Une vidéo YouTube</h1>
+  <iframe width="200" height="200" src="https://www.youtube.com/embed/lG-JkvTpsWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
 Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
